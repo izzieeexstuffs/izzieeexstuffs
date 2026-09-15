@@ -1,12 +1,12 @@
 <div align="center">
 
-# ˚₊‧꒰ა Isabelly Gomez ໒꒱ ‧₊˚
+# 🦇 Isabelly Gomez
 
 ### `student • learner • creator`
 
-📚 Education & Pharmacology  
-💻 LaTeX & Python  
-🌱 Always learning something new
+🖤 Education • Pharmacology • Programming  
+🌙 Learning Python & LaTeX  
+🦋 Always learning something new
 
 </div>
 
@@ -22,60 +22,76 @@ I enjoy learning new things and turning what I learn into projects, notes and ed
 
 ---
 
-## 🌱 Currently learning
+## 🌙 Currently learning
 
-- 🐍 Python
-- 📄 LaTeX / Overleaf
-- 💻 Programming
-- 📚 Educational projects
-- 💊 Pharmacology
-
----
-
-## 📚 My projects
-
-### 📖 My Books
-Personal writing projects and experiments with digital publishing.
-
-### 📝 Educational Materials
-Materials created for studying, teaching and organizing knowledge.
-
-### 💊 Pharmacology
-Studies, notes and projects related to pharmacology.
-
-### 📄 LaTeX Projects
-Academic documents and projects created with LaTeX.
+🐍 **Python**  
+📄 **LaTeX / Overleaf**  
+💻 **Programming**  
+📚 **Educational projects**  
+💊 **Pharmacology**
 
 ---
 
-## 🛠️ Tools & technologies
+## 🕯️ My projects
+
+| 📖 My Books | 📚 Educational Materials |
+|:---:|:---:|
+| Personal writing projects | Educational resources |
+| Digital publishing | Study materials |
+
+| 💊 Pharmacology | 📄 LaTeX Projects |
+|:---:|:---:|
+| Notes & studies | Academic projects |
+| Pharmacology resources | Documents & experiments |
+
+---
+
+## 🐍 Languages & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=B8A0FF"/>
+
+<img src="https://img.shields.io/badge/LaTeX-111111?style=for-the-badge&logo=latex&logoColor=B8A0FF"/>
+
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=B8A0FF"/>
+
+<img src="https://img.shields.io/badge/Overleaf-111111?style=for-the-badge&logo=overleaf&logoColor=B8A0FF"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=izzieexstuff&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+<br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzieexstuff&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## ☕ A little more about me
+## 🌑 Contribution Graph
 
-> "Learning never stops."
+<div align="center">
 
-This profile is my little space to document what I'm studying, creating and discovering along the way. ♡
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=izzieexstuff&theme=midnight-purple&hide_border=true"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile! ♡
+### 🦋
 
-`୨୧ keep learning • keep creating • keep growing ୨୧`
+> *"Learning never stops."*
+
+🌙 `keep learning • keep creating • keep growing`
 
 </div>
